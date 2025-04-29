@@ -1,8 +1,13 @@
-## 📱 MobileShop App
+# 📱 MobileShop - OOP with JavaScript
 
-This project demonstrates Object-Oriented Programming in JavaScript using a virtual mobile store setup.
+This is a simple and clean JavaScript project demonstrating Object-Oriented Programming concepts using ES6 classes.
 
-Features:
-- Add mobile devices
-- List all mobiles
-- Mobile info method
+## 🧠 Features
+- Add new mobile devices
+- List all added mobiles with specs
+- Unique ID assigned to each mobile
+- Clean class structure for scalability
+
+## 🚀 Tech Stack
+- JavaScript (ES6+)
+- Console-based UI
